@@ -99,6 +99,12 @@ br {
     margin-bottom: 20px;
 }
 
+img {
+  width: 50%;
+  height: auto;
+  max-width: 300px;
+}
+
 @media (max-width: 768px) {
     body {
         padding: 10px;
